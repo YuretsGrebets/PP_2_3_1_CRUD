@@ -11,7 +11,6 @@ import javax.persistence.PersistenceContextType;
 import java.util.List;
 
 @Repository
-
 public class UserDaoImpl implements UserDao{
 
     @PersistenceContext
